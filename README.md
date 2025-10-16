@@ -382,18 +382,6 @@ app.switchApi(false);  // Cambiar a datos mock
    - Click en "DELETE"
    - Confirmar y verificar que desaparece
 
-## 🧪 Testing
-
-Para ejecutar los tests unitarios:
-
-```bash
-mvn test
-```
-
-Los tests incluyen:
-- Tests de servicios
-- Tests de persistencia thread-safe
-- Tests de filtros de blueprints
 
 ## 🛠️ Tecnologías Utilizadas
 
